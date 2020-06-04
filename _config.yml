@@ -50,12 +50,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://github.com/hairrrrr/hairrrrr.github.io/blob/master/assets/2020-06-04-01.png"
+          href="https://github.com/hairrrrr.github.io/assets/2020-06-04-01.png"
         />
         <link
           rel="shortcut
           icon"
-          href="https://github.com/hairrrrr/hairrrrr.github.io/blob/master/assets/2020-06-04-01.png"
+          href="https://github.com/hairrrrr.github.io/assets/2020-06-04-01.png"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
