@@ -38,7 +38,7 @@
 
 
 
-![](https://github.com/hairrrrr/hairrrrr.github.io/tree/master/assets/2020-06-04-03.jpg)
+![](https://hairrrrr.github.io/assets/2020-06-04-04.jpg)
 
 
 
