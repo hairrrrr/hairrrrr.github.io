@@ -1,4 +1,4 @@
-# 星合の空
+# 不会编程的程序圆
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 
@@ -6,17 +6,14 @@
 
 ## 我的一些联系方式
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Address: **Xi‘an China**
+- Site: **<https://cctechbolg.cn>**
 
 <!-- slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **2823666460@qq.com**
+- QQ: **2823666460**
 
 <!-- slide -->
 
