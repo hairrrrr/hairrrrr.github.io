@@ -3,7 +3,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   Hasakii!<br/>
   Basketball<br/>
   Gym<br/>
-<a href="mailto:i@wu-kan.cn">
+  <a href="mailto:i@wu-kan.cn">
     <i class="fas fa-envelope"></i>
   </a>
   <a href="https://github.com/wu-kan">
