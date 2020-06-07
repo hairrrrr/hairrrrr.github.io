@@ -15,7 +15,7 @@
 
 <!-- slide -->
 
-## 我的教学项目
+## 我的学习笔记
 
 <!-- slide vertical=true -->
 
