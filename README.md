@@ -23,8 +23,7 @@
 - [Java](https://github.com/hairrrrr/EasyJava)
 - [Data Structure](https://github.com/hairrrrr/Date-Structure)
 - [Online Judge](https://github.com/hairrrrr/1200_Problems)
-- [Linux](https://github.com/hairrrrr/LinuxGuide-)
-- [MySQL](https://github.com/hairrrrr/MySQL-Direction)
+- [C++](https://github.com/hairrrrr/Cpp-Primer)
 
 <!-- slide -->
 
