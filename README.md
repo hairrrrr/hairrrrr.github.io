@@ -20,10 +20,6 @@
 <!-- slide vertical=true -->
 
 - [C](https://github.com/hairrrrr/C-CrashCourse)
-- [Java](https://github.com/hairrrrr/EasyJava)
-- [Data Structure](https://github.com/hairrrrr/Date-Structure)
-- [Online Judge](https://github.com/hairrrrr/1200_Problems)
-- [C++](https://github.com/hairrrrr/Cpp-Primer)
 
 <!-- slide -->
 
