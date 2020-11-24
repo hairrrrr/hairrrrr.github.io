@@ -10,16 +10,19 @@
 
 - Address: **Xi‘an，China**
 - Site: **<https://cctechblog.cn>**
-- E-mail:**2823666460@qq.com**
-- QQ: **2823666460**
+- E-mail:**shepardwang2020@outlook.com**
+- WeChat: **chengxuyuan233**
+- 我的简历
+  - [动态简历](http://hairrrrr.github.io/animating-resume/public/)
+  - [静态简历](http://hairrrrr.github.io/cv/)
 
 <!-- slide -->
 
-## 我的学习笔记
+## 我的项目
 
 <!-- slide vertical=true -->
 
-- [C](https://github.com/hairrrrr/C-CrashCourse)
+- [C 语言学习](https://github.com/hairrrrr/C-CrashCourse)
 
 <!-- slide -->
 
@@ -31,7 +34,7 @@
 
 ### 不会编程的程序圆
 
-
+获得我的文章推送~
 
 ![](https://hairrrrr.github.io/assets/2020-06-04-04.jpg)
 
