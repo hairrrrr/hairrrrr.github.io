@@ -12,9 +12,13 @@
 - Site: **<https://cctechblog.cn>**
 - E-mail:**shepardwang2020@outlook.com**
 - WeChat: **chengxuyuan233**
-- 我的简历
-  - [动态简历](http://hairrrrr.github.io/animating-resume/public/)
-  - [静态简历](http://hairrrrr.github.io/cv/)
+
+<!-- slide -->
+
+**我的简历**
+
+- [动态简历](http://hairrrrr.github.io/animating-resume/public/)
+- [静态简历](http://hairrrrr.github.io/cv/)
 
 <!-- slide -->
 
